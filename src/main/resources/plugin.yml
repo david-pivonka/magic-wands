@@ -1,0 +1,9 @@
+name: MagicWands
+version: '${project.version}'
+main: io.pivonka.magicwands.MagicWands
+api-version: 1.19
+
+commands:
+  wands:
+    description: "Gives you a wand"
+    aliases: [wand, w]
